@@ -12,7 +12,7 @@ This is a converted archive from the now defunct google code site
  * Training Labels : [mnist-train-labels.idx](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/visual-rbm/mnist-train-labels.idx)
  * Testing Images : [mnist-test-images.idx](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/visual-rbm/mnist-test-images.idx)
  * Testing Labels : [mnist-test-labels.idx](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/visual-rbm/mnist-test-labels.idx)
-* MNIST Tutorial : [mnist-classifier.zip](http://goo.gl/giyPLH)
+* MNIST Tutorial : [mnist-classifier.zip](https://github.com/pospeselr/VisualRBM/raw/master/tutorials/mnist-classifier.zip)
 
 # News
 
