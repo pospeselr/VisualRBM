@@ -1,4 +1,4 @@
-This is a converted archive from the now defunct google code site ()
+This is a converted archive from the now defunct google code site
 
 # Screenshots
 
@@ -6,13 +6,13 @@ This is a converted archive from the now defunct google code site ()
 
 # Downloads
 
-* [VisualRBM Installer](http://goo.gl/gcLnAI visualrbm-setup.1.2.exe)
+* VisualRBM Installer : [visualrbm-setup.1.2.exe](http://goo.gl/gcLnAI)
 * MNIST Data
- * [Training Images](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/visual-rbm/mnist-train-images.idx)
- * [Training Labels](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/visual-rbm/mnist-train-labels.idx)
- * [Testing Images](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/visual-rbm/mnist-test-images.idx)
- * [Testing Labels](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/visual-rbm/mnist-test-labels.idx)
-* [MNIST Tutorial](http://goo.gl/giyPLH mnist-classifier.zip)
+ * Training Images : [mnist-train-images.idx](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/visual-rbm/mnist-train-images.idx)
+ * Training Labels : [mnist-train-labels.idx](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/visual-rbm/mnist-train-labels.idx)
+ * Testing Images : [mnist-test-images.idx](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/visual-rbm/mnist-test-images.idx)
+ * Testing Labels : [mnist-test-labels.idx](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/visual-rbm/mnist-test-labels.idx)
+* MNIST Tutorial : [mnist-classifier.zip](http://goo.gl/giyPLH)
 
 # News
 
