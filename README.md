@@ -18,7 +18,7 @@ This is a converted archive from the now defunct google code site
 
 ### 1/10/2015
 
-No new releases recently (and none coming for awhile) but don't worry, I am hard at work. I'm doing some major work on the GPU backend library, SiCKL ( https://code.google.com/p/sickl/'>https://code.google.com/p/sickl/ ):
+No new releases recently (and none coming for awhile) but don't worry, I am hard at work. I'm doing some major work on the GPU backend library, [SiCKL](https://github.com/pospeselr/SiCKL):
 
 * Changed SiCKL to use qmake so I can port to OSX and Linux
 * Implementing an OpenCL frontend for SiCKL
